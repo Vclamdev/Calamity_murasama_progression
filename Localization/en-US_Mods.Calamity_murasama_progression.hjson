@@ -2,48 +2,9 @@
 # Please read https://github.com/tModLoader/tModLoader/wiki/Localization to learn more about localization and these files.
 
 Items: {
-	ultra_ultra_killer: {
-		DisplayName: ultra_ultra_killer
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
-	}
-
 	UltraUltraKiller: {
 		Tooltip: ""
 		DisplayName: Ultra Ultra Killer
-	}
-
-	Weapons: {
-		Melee: {
-			UltraUltraKiller: {
-				Tooltip: ""
-				DisplayName: Ultra Ultra Killer
-			}
-		}
-	}
-}
-
-Mods: {
-	Calamity_murasama_progression: {
-		Configs: {
-			MurasamaConfig: {
-				DisplayName: Settings
-
-				EnableMurasamaProgression: {
-					Label: Enable murasama dmg progression
-					Tooltip: Damage increases upon defeating certain bosses; without this setting, the Murasama's damage will always remain at the standard level.
-				}
-
-				MySettingInt: {
-					Label: Название ползунка
-					Tooltip: Описание для ползунка
-				}
-			}
-		}
 	}
 }
 
@@ -53,7 +14,7 @@ Configs: {
 
 		EnableMurasamaProgression: {
 			Label: Enable Murasama Progression
-			Tooltip: ""
+			Tooltip: Damage increases upon defeating certain bosses; without this setting, the Murasama's damage will always remain at the standard level.
 		}
 
 		Multiplier: {
