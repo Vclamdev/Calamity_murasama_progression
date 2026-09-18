@@ -1,0 +1,8 @@
+displayName = Murasama progression
+author = victor
+version = 0.1
+
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, .github\*, LICENSE, README.md, .editorconfig, .gitignore, .gitattributes, .idea, Effects\Compiler\*
+
+
+modReferences = CalamityMod

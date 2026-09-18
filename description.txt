@@ -1,0 +1,7 @@
+Этот мод слегка меняет механнику меча murasama на подобие как это делает мод calamity overhaul,
+только без всего лишнего, только прогрессия и больше ничего
+
+###############################################################################################
+
+This mod slightly alters the Murasama's mechanics—similar to the Calamity Overhaul
+mod—but without any of the extra fluff; it focuses solely on progression and nothing else.
