@@ -11,14 +11,75 @@ Items: {
 Configs: {
 	MurasamaConfig: {
 		DisplayName: Murasama Config
+		Headers.MurasamaDmgModifiers: Murasama damage modifiers for boss kills
 
 		EnableMurasamaProgression: {
 			Label: Enable Murasama Progression
 			Tooltip: Damage increases upon defeating certain bosses; without this setting, the murasama's damage will always remain at the standard level.
 		}
 
-		Multiplier: {
-			Label: Multiplier
+		EvilBossMult: {
+			Label: evil boss
+			Tooltip: ""
+		}
+
+		SkeletronMult: {
+			Label: Skeletron
+			Tooltip: ""
+		}
+
+		OnHardModeMult: {
+			Label: hard mode
+			Tooltip: ""
+		}
+
+		DestroyerMult: {
+			Label: Destroyer
+			Tooltip: ""
+		}
+
+		TwinsMult: {
+			Label: twins
+			Tooltip: ""
+		}
+
+		SkeletronPMult: {
+			Label: Skeletron prime
+			Tooltip: ""
+		}
+
+		PlanteraMult: {
+			Label: Plantera
+			Tooltip: ""
+		}
+
+		MoonLordMult: {
+			Label: moon lord
+			Tooltip: ""
+		}
+
+		ProvidenceMult: {
+			Label: Providence
+			Tooltip: ""
+		}
+
+		DoGMult: {
+			Label: DoG
+			Tooltip: ""
+		}
+
+		YharonMult: {
+			Label: Yharon
+			Tooltip: ""
+		}
+
+		ExoMechsMult: {
+			Label: exo mechanics
+			Tooltip: ""
+		}
+
+		CalamitasMult: {
+			Label: Calamitas
 			Tooltip: ""
 		}
 	}

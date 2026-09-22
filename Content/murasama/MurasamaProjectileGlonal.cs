@@ -7,6 +7,7 @@ namespace Calamity_murasama_progression.Content.murasama;
 
 public class MurasamaProjectileGlobal : GlobalProjectile
 {
+    
     public override void ModifyHitNPC(Projectile projectile, NPC target, ref NPC.HitModifiers modifiers)
     {
         bool isEnableProgression = ModContent.GetInstance<MurasamaConfig>().EnableMurasamaProgression;

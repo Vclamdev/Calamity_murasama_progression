@@ -7,6 +7,7 @@ namespace Calamity_murasama_progression.Content.murasama
 {
     public class MurasamaProgressionGlobalItem : GlobalItem
     {
+
         public override void ModifyWeaponDamage(Item item, Player player, ref StatModifier damage)
         {
             bool isEnableProgression = ModContent.GetInstance<MurasamaConfig>().EnableMurasamaProgression;

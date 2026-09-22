@@ -11,15 +11,76 @@ Items: {
 Configs: {
 	MurasamaConfig: {
 		DisplayName: Murasama Config
+		Headers.MurasamaDmgModifiers: Модификаторы увеличения урона после убийства боссов
 
 		EnableMurasamaProgression: {
 			Label: Включить прогрессирующий урон мурасамы
 			Tooltip: Урон увеличивается с победой над некоторыми боссами; без этой настройки, урон мурасамы будет всегда стандартным.
 		}
 
-		Multiplier: {
-			Label: Мультипликатор
+		EvilBossMult: {
+			Label: босс злого биома
+			// Tooltip: ""
+		}
+
+		SkeletronMult: {
+			Label: Скелетрон
+			// Tooltip: ""
+		}
+
+		OnHardModeMult: {
+			Label: хард мод
+			// Tooltip: ""
+		}
+
+		DestroyerMult: {
+			Label: Уничтожитель
+			// Tooltip: ""
+		}
+
+		TwinsMult: {
+			Label: близнеци
 			Tooltip: ""
+		}
+
+		SkeletronPMult: {
+			Label: Скелетрон прайм
+			// Tooltip: ""
+		}
+
+		PlanteraMult: {
+			Label: Плантера
+			// Tooltip: ""
+		}
+
+		MoonLordMult: {
+			Label: лунный лорд
+			// Tooltip: ""
+		}
+
+		ProvidenceMult: {
+			Label: Провиденс
+			// Tooltip: ""
+		}
+
+		DoGMult: {
+			Label: Пожиратель богов
+			// Tooltip: ""
+		}
+
+		YharonMult: {
+			Label: Ярон
+			// Tooltip: ""
+		}
+
+		ExoMechsMult: {
+			Label: екзо-механические боссы
+			Tooltip: ""
+		}
+
+		CalamitasMult: {
+			Label: Каламитас
+			// Tooltip: ""
 		}
 	}
 }
